@@ -1,0 +1,35 @@
+{
+  "prompt_data": {
+    "layout": {
+      "type": "4-panel split screen",
+      "structure": "2x2 grid, equal distribution",
+      "frame_count": "Four distinct frames",
+      "consistency": "Character continuity maintained across all frames"
+    },
+    "subject": {
+      "reference": "Billie Eilish resemblance",
+      "hair_styling": "Deep side-part, 90s supermodel blowout, extreme volume swept over the crown. Thick auburn waves, flyaways visible.",
+      "skin_details": "Dermatological reality, high-frequency texture, visible pores, fine vellus hair (peach fuzz) on cheeks, slight skin translucency, unretouched, natural moles and freckles",
+      "eyes": "Piercing blue, catchlights from studio flash, sharp iris details"
+    },
+    "attire": {
+      "top": "Strapless couture bustier, large pailette sequins",
+      "pattern": "Iridescent black base shifting to deep violet and magenta",
+      "neckwear": "Rigid high-polish gold Omega chain choker (flat collar style)",
+      "wristwear": "Luxury stack: Wide flat bangles, mixed metals (Gold, Silver) and Black Ceramic with visible screw-head hardware motifs"
+    },
+    "poses": [
+      "Frame 1: Frontal close-up, neutral intense stare, heavy hair sweep",
+      "Frame 2: Leaning cheek on closed fist, slight smirk, wrist stack prominent",
+      "Frame 3: Chin resting on open flat palm, soft engaging smile",
+      "Frame 4: Candid laughter, head thrown back, hand under chin, profile view"
+    ],
+    "technical_specs": {
+      "lighting": "Hard studio flash, direct strobe, high contrast butterfly lighting",
+      "camera": "Phase One XF IQ4, 150MP",
+      "lens": "Schneider Kreuznach 80mm LS f/2.8",
+      "film_stock": "Kodak Portra 400 emulation",
+      "raw_tags": "ISO 100, slight chromatic aberration, natural depth of field, unpolished, texture-rich"
+    }
+  }
+}
